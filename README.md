@@ -13,6 +13,7 @@ realistic mouse movement and clicks, highly customizable click patterns followin
 **Technologies and Libraries**
 + Developed in Java and built using the RuneLite framework, an open-source toolkit for building custom plugins for OSRS.
 + Utilizes an event-driven architecture to respond to various in-game events such as item container changes, game state changes, and interactions.
++ Effective thread handling for managing concurrent tasks and ensuring a smooth automation process acknowledging the single-threaded nature of the RuneLite framework
 + Integrates the MouseMotionFactory library for natural mouse movement, enhancing the realism of mouse interactions.
 
 **Demo**
