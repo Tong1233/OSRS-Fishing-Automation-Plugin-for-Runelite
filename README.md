@@ -3,9 +3,10 @@
 
 **Features:**
 + Automates the process of fly fishing at Barbarian fishing spots in OSRS.
-+ Allows users to customize fishing locations, drop conditions, and debug options through a configuration interface. Configuration options include fishing location selection, drop conditions, and debugging settings.
-+ Utilizes intelligent mouse movement to simulate player actions.
-+ Built in debug features andinformative GUI such as showing a heat map of all mouse click locations after prolonged use of the bot
++ Allows users to customize fishing locations and drop conditions
++ Built in debug features and informative GUI such as showing a heat map of all mouse click locations after prolonged use of the bot
++ Extensively tested to ensure that it can run stably (over 10 hours) and that antiban features prevent botting detection. Antiban features include:
+ +asdas 
 
 **Technologies and Libraries**
 + Developed in Java and built using the RuneLite framework, an open-source toolkit for building custom plugins for OSRS.
