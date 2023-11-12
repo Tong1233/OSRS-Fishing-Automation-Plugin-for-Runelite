@@ -12,3 +12,9 @@ realistic mouse movement and clicks, highly customizable click patterns followin
 + Developed in Java and built using the RuneLite framework, an open-source toolkit for building custom plugins for OSRS.
 + Utilizes an event-driven architecture to respond to various in-game events such as item container changes, game state changes, and interactions.
 + Integrates the MouseMotionFactory library for natural mouse movement, enhancing the realism of mouse interactions.
+
+**Interface:**
+![interface](https://github.com/Tong1233/OSRS-Fishing-Automation-Plugin-for-Runelite---Undetectable-and-Efficient/assets/74699244/f7603b2e-d4b1-4ddb-84f8-b9f0c79c82b5)
+
+**Demo**
+![Demogif](https://github.com/Tong1233/OSRS-Fishing-Automation-Plugin-for-Runelite---Undetectable-and-Efficient/assets/74699244/7f58812e-73b7-4351-90bb-b56c32d5b4f5)
