@@ -1,5 +1,5 @@
 # OSRS-Fishing-Bot---Runelite-Plugin
- Custom plugin for the Old School RuneScape (OSRS) game client, built with RuneLite, to automate fly fishing at Barbarian fishing spots. Currently supports 3 fishing spots to train your account from levels 1 to 99.
+ Custom plugin for the Old School RuneScape (OSRS) game client, built with RuneLite, to automate fly fishing at Barbarian fishing spots. Currently supports 3 fishing spots to train your account from levels 1 to 99 (shown below).
  
 ![interface](https://github.com/Tong1233/OSRS-Fishing-Automation-Plugin-for-Runelite---Undetectable-and-Efficient/assets/74699244/f7603b2e-d4b1-4ddb-84f8-b9f0c79c82b5)
 
