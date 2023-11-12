@@ -16,6 +16,6 @@ realistic mouse movement and clicks, highly customizable click patterns followin
 + Effective thread handling for managing concurrent tasks and ensuring a smooth automation process acknowledging the single-threaded nature of the RuneLite framework
 + Integrates the MouseMotionFactory library for natural mouse movement, enhancing the realism of mouse interactions.
 
-**Demo**
+**Demo (Sped Up, Mouse is more natural in real time, red dots records click locations)**
 
 ![Demogif](https://github.com/Tong1233/OSRS-Fishing-Automation-Plugin-for-Runelite---Undetectable-and-Efficient/assets/74699244/7f58812e-73b7-4351-90bb-b56c32d5b4f5)
