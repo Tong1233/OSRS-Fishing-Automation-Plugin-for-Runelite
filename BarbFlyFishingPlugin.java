@@ -34,7 +34,7 @@ import net.runelite.client.events.ConfigChanged;
 import net.runelite.client.game.ItemManager;
 import net.runelite.client.plugins.Plugin;
 import net.runelite.client.plugins.PluginDescriptor;
-import net.runelite.client.plugins.BarbFlyFishing.api.MouseMotionFactory;
+import net.runelite.client.plugins.BarbFlyFishing.naturalmouse.api.MouseMotionFactory;
 import net.runelite.client.ui.overlay.OverlayManager;
 import net.runelite.client.ui.overlay.infobox.InfoBoxManager;
 

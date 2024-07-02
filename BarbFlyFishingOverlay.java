@@ -11,7 +11,7 @@ import net.runelite.api.widgets.WidgetItem;
 import net.runelite.api.annotations.Component;
 import net.runelite.api.widgets.WidgetInfo;
 import net.runelite.client.game.NPCManager;
-import net.runelite.client.plugins.BarbFlyFishing.api.MouseMotionFactory;
+import net.runelite.client.plugins.BarbFlyFishing.naturalmouse.api.MouseMotionFactory;
 import net.runelite.client.ui.overlay.Overlay;
 import net.runelite.client.ui.overlay.OverlayPanel;
 import net.runelite.client.ui.overlay.OverlayPosition;
@@ -339,9 +339,9 @@ class BarbFlyFishingOverlay extends OverlayPanel {
 
 	private void antiban() {
 		int finalx = (int) (Math.random() * 150);
-		int finaly = (int) (Math.random() * 1080);
+		int finaly = (int) (Math.random() * 580);
 		int finalx2 = (int) (Math.random() * 150);
-		int finaly2 = (int) (Math.random() * 1080);
+		int finaly2 = (int) (Math.random() * 580);
 
 		try {
 			MouseMotionFactory.getDefault().move(finalx, finaly);
